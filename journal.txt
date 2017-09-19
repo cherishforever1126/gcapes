@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+# Authors
 bbadd
-=======
 John Smith
+Blablabla
 simulations section
->>>>>>> paperWJohn
-<<<<<<< HEAD
+
 add conclusions section a
 =======
 
