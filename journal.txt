@@ -11,3 +11,6 @@ add conclusions section a
 #results
 good job of reproducing the measurements, and we think we understand what's going on.
 >>>>>>> wire results section
+
+#figures
+this section contains the figures.
