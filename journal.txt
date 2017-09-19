@@ -1,3 +1,6 @@
-aaaaaaaa
-tt
-#ggg
+<<<<<<< HEAD
+bb
+=======
+John Smith
+simulations section
+>>>>>>> paperWJohn
